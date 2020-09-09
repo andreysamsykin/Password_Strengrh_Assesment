@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // набора атрибутов. Измените значения этих атрибутов для изменения сведений,
 // связанные с этой сборкой.
 [assembly: AssemblyTitle("UIB_1")]
-[assembly: AssemblyDescription("Software for password strength assessment")]
+[assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("UIB_1")]
-[assembly: AssemblyCopyright("Copyright  Andrey Samsykin ©  2020")]
+[assembly: AssemblyCopyright("Copyright ©  2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // Следующий GUID представляет идентификатор typelib, если этот проект доступен из модели COM
-[assembly: Guid("6388b438-00f8-4cfb-ac23-6c00bddd4414")]
+[assembly: Guid("ade868f0-2cb9-425c-8134-418529f23808")]
 
 // Сведения о версии сборки состоят из указанных ниже четырех значений:
 //

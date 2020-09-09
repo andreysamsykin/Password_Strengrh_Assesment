@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{6388B438-00F8-4CFB-AC23-6C00BDDD4414}</ProjectGuid>
+    <ProjectGuid>{ADE868F0-2CB9-425C-8134-418529F23808}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>UIB_1</RootNamespace>
     <AssemblyName>UIB_1</AssemblyName>

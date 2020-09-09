@@ -1,7 +1,7 @@
-D:\institute\Управление информационной безопасностью\Лабі\Лаб1\UIB_1\bin\Debug\UIB_1.exe.config
-D:\institute\Управление информационной безопасностью\Лабі\Лаб1\UIB_1\bin\Debug\UIB_1.exe
-D:\institute\Управление информационной безопасностью\Лабі\Лаб1\UIB_1\bin\Debug\UIB_1.pdb
-D:\institute\Управление информационной безопасностью\Лабі\Лаб1\UIB_1\obj\Debug\UIB_1.csprojAssemblyReference.cache
-D:\institute\Управление информационной безопасностью\Лабі\Лаб1\UIB_1\obj\Debug\UIB_1.csproj.CoreCompileInputs.cache
-D:\institute\Управление информационной безопасностью\Лабі\Лаб1\UIB_1\obj\Debug\UIB_1.exe
-D:\institute\Управление информационной безопасностью\Лабі\Лаб1\UIB_1\obj\Debug\UIB_1.pdb
+D:\institute\Управление информационной безопасностью\Лабі\Лаб1\Password_Strengrh_Assesment\UIB_1\bin\Debug\UIB_1.exe.config
+D:\institute\Управление информационной безопасностью\Лабі\Лаб1\Password_Strengrh_Assesment\UIB_1\bin\Debug\UIB_1.exe
+D:\institute\Управление информационной безопасностью\Лабі\Лаб1\Password_Strengrh_Assesment\UIB_1\bin\Debug\UIB_1.pdb
+D:\institute\Управление информационной безопасностью\Лабі\Лаб1\Password_Strengrh_Assesment\UIB_1\obj\Debug\UIB_1.csprojAssemblyReference.cache
+D:\institute\Управление информационной безопасностью\Лабі\Лаб1\Password_Strengrh_Assesment\UIB_1\obj\Debug\UIB_1.csproj.CoreCompileInputs.cache
+D:\institute\Управление информационной безопасностью\Лабі\Лаб1\Password_Strengrh_Assesment\UIB_1\obj\Debug\UIB_1.exe
+D:\institute\Управление информационной безопасностью\Лабі\Лаб1\Password_Strengrh_Assesment\UIB_1\obj\Debug\UIB_1.pdb
